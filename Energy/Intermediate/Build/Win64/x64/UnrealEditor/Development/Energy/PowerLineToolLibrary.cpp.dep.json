@@ -1,0 +1,36 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\githubportfolio\\uetool\\energy\\source\\energy\\powerlinetoollibrary.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\githubportfolio\\uetool\\energy\\intermediate\\build\\win64\\x64\\energyeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "d:\\githubportfolio\\uetool\\energy\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\energy\\definitions.energy.h",
+            "d:\\githubportfolio\\uetool\\energy\\source\\energy\\powerlinetoollibrary.h",
+            "d:\\githubportfolio\\uetool\\energy\\intermediate\\build\\win64\\unrealeditor\\inc\\energy\\uht\\powerlinetoollibrary.generated.h",
+            "d:\\githubportfolio\\uetool\\energy\\source\\energy\\powerlineactor.h",
+            "d:\\githubportfolio\\uetool\\energy\\intermediate\\build\\win64\\unrealeditor\\inc\\energy\\uht\\powerlineactor.generated.h",
+            "m:\\ue544\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\splinecomponent.h",
+            "m:\\ue544\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\splinecomponent.generated.h",
+            "m:\\ue544\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\selection.h",
+            "m:\\ue544\\ue_5.4\\engine\\source\\runtime\\typedelementframework\\public\\elements\\framework\\typedelementlist.h",
+            "m:\\ue544\\ue_5.4\\engine\\source\\runtime\\typedelementframework\\public\\elements\\framework\\typedelementcounter.h",
+            "m:\\ue544\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\typedelementframework\\uht\\typedelementcounter.generated.h",
+            "m:\\ue544\\ue_5.4\\engine\\source\\runtime\\typedelementruntime\\public\\elements\\framework\\typedelementselectionset.h",
+            "m:\\ue544\\ue_5.4\\engine\\source\\runtime\\typedelementruntime\\public\\elements\\framework\\typedelementinterfacecustomization.h",
+            "m:\\ue544\\ue_5.4\\engine\\source\\runtime\\typedelementruntime\\public\\elements\\framework\\typedelementlistobjectutil.h",
+            "m:\\ue544\\ue_5.4\\engine\\source\\runtime\\typedelementruntime\\public\\elements\\interfaces\\typedelementselectioninterface.h",
+            "m:\\ue544\\ue_5.4\\engine\\source\\runtime\\typedelementframework\\public\\elements\\framework\\typedelementlistproxy.h",
+            "m:\\ue544\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\typedelementframework\\uht\\typedelementlistproxy.generated.h",
+            "m:\\ue544\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\typedelementruntime\\uht\\typedelementselectioninterface.generated.h",
+            "m:\\ue544\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\typedelementruntime\\uht\\typedelementselectionset.generated.h",
+            "m:\\ue544\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\selection.generated.h",
+            "m:\\ue544\\ue_5.4\\engine\\source\\runtime\\slate\\public\\framework\\notifications\\notificationmanager.h",
+            "m:\\ue544\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\coreasynctasknotificationimpl.h",
+            "m:\\ue544\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\asynctasknotification.h",
+            "m:\\ue544\\ue_5.4\\engine\\source\\runtime\\slate\\public\\widgets\\notifications\\snotificationlist.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

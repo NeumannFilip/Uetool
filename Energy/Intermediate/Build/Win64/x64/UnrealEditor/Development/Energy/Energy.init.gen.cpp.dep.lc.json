@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\githubportfolio\\uetool\\energy\\intermediate\\build\\win64\\unrealeditor\\inc\\energy\\uht\\energy.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\githubportfolio\\uetool\\energy\\intermediate\\build\\win64\\x64\\energyeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "d:\\githubportfolio\\uetool\\energy\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\energy\\definitions.energy.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

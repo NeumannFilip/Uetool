@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Energy",
+			"Path": "..\\Source\\Energy.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "EnergyEditor",
+			"Path": "..\\Source\\EnergyEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
